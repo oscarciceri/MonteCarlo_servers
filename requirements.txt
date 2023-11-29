@@ -1,0 +1,11 @@
+geopandas==0.14.1
+json5 @ file:///home/conda/feedstock_root/build_artifacts/json5_1688248289187/work
+jsonpointer @ file:///home/conda/feedstock_root/build_artifacts/jsonpointer_1695397258212/work
+jsonschema @ file:///home/conda/feedstock_root/build_artifacts/jsonschema-meta_1700159890288/work
+jsonschema-specifications @ file:///home/conda/feedstock_root/build_artifacts/jsonschema-specifications_1700059145511/work
+networkx @ file:///work/perseverance-python-buildout/croot/networkx_1698865062738/work
+numpy @ file:///work/perseverance-python-buildout/croot/numpy_and_numpy_base_1698845160062/work/dist/numpy-1.26.0-cp312-cp312-linux_x86_64.whl#sha256=fdc35057024038070345ff9f7f47ed48ecdb21dd72461617bdadf4f5d1634fcb
+osmnx==1.7.1
+pandas @ file:///work/perseverance-python-buildout/croot/pandas_1698973818973/work/dist/pandas-2.1.1-cp312-cp312-linux_x86_64.whl#sha256=562928bee17d9e0bfef74f6aecd0d0340cd214ab70395fb2ff056adcbb6424bf
+scipy==1.11.4
+
